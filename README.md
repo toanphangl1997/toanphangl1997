@@ -6,9 +6,9 @@
 </p>
 
 <h2>🔥 About Me</h2>
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="width:100%">
   <tr>
-    <td>
+    <td style="text-align:left; width:50%;">
       <ul>
         <li>🌱 I’m currently becoming Fullstack Developer</li>
         <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
@@ -17,12 +17,11 @@
         <li>⚡ Fun fact: Football, Badminton,...</li>
       </ul>
     </td>
-    <td>
+    <td style="text-align:right; width:50%;">
       <img src="./animation.gif" alt="Animation" width="150" />
     </td>
   </tr>
 </table>
-
 # 💻 Languages and Tools:
 <!-- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/> <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> -->
 
