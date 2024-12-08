@@ -28,16 +28,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="Dev-ToanPhan GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" alt="Dev-ToanPhan GitHub Stats">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toanphangl1997&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toanphangl1997&theme=codeSTACKr&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 
