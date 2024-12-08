@@ -1,5 +1,6 @@
+<div class="align-center">
 ## Hi,I'm Phan Toàn 👋
-
+</div>
 Effort Leads To Success
 - 🔭 I’m currently becoming Fullstack Developer
 - 🌱 I’m currently learning Cybersoft Academy
