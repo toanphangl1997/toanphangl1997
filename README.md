@@ -1,30 +1,29 @@
-
-
 <h1 align="center">Hi 👋, I'm Toàn Phan</h1>
 <p align="center">
   <img align="center" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" />
   <h3 align="center">Passionate Developer From VN </h3>
-<!--   <img align="center" height="350" width="1000" src="https://img4.thuthuatphanmem.vn/uploads/2020/05/13/anh-goc-lam-viec-don-gian-ma-dep_063108687.jpg"/> -->
   <img align="center" height="350" width="1000" src="https://img.lovepik.com/bg/20240418/Modern-Office-Vibe-Dark-Loft-Wall-with-Desktop-Computer-Mockup_6497563_wh860.jpg!/fw/860"/>
 </p>
+
 <h2>🔥 About Me</h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 I’m currently becoming Fullstack Developer</li>
-        <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
-        <li>💬 Ask me about SOME stack and related technologies</li>
-        <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
-        <li>⚡ Fun fact: Football, Badminton,...</li>
-      </ul>
-    </td>
-    <td>
-      <img src="./animation.gif" alt="Animation" width="150" />
-    </td>
-  </tr>
-</table>
+<!-- Use flex to align both elements on the same line -->
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li>🌱 I’m currently becoming Fullstack Developer</li>
+      <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
+      <li>💬 Ask me about SOME stack and related technologies</li>
+      <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
+      <li>⚡ Fun fact: Football, Badminton,...</li>
+    </ul>
+  </div>
+  
+  <!-- The animation image should sit to the right of the list -->
+  <div style="flex-shrink: 0; min-width: 150px;">
+    <img src="./animation.gif" alt="Animation" width="150" />
+  </div>
+</div>
 
 
 # 💻 Languages and Tools:
