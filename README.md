@@ -25,12 +25,12 @@
   
 # 📊 GitHub Stats:
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; width: 100% border: none;">
   <tr style="border: none;">
-    <td style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
     </td>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" alt="Dev-ToanPhan">
     </td>
   </tr>
