@@ -9,7 +9,7 @@
 </p>
 <h2>🔥 About Me</h2>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <ul>
