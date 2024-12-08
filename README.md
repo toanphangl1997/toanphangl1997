@@ -31,7 +31,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" alt="Dev-ToanPhan">
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false" alt="Dev-ToanPhan"> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&show_icons=true&theme=codeSTACKr&hide_border=true&rank_icon=github&include_all_commits=true">
     </td>
   </tr>
 </table>
