@@ -6,5 +6,3 @@ Effort Leads To Success
 - 💬 Ask me about SOME stack and related technologies
 - 📫 How to reach me: toanphangl997@gmail.com
 - ⚡ Fun fact: Football,Badminton,...
-- 
--->
