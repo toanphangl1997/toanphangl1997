@@ -5,27 +5,18 @@
   <img align="center" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" />
   <h3 align="center">Passionate Developer From VN </h3>
 <!--   <img align="center" height="350" width="1000" src="https://img4.thuthuatphanmem.vn/uploads/2020/05/13/anh-goc-lam-viec-don-gian-ma-dep_063108687.jpg"/> -->
+  <img align="center" height="350" width="1000" src="https://img.lovepik.com/bg/20240418/Modern-Office-Vibe-Dark-Loft-Wall-with-Desktop-Computer-Mockup_6497563_wh860.jpg!/fw/860"/>
 </p>
+ <h2>🔥 About Me</h2>
+  <ul>
+    <li>🌱 I’m currently becoming Fullstack Developer</li>
+    <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
+    <li>💬 Ask me about SOME stack and related technologies</li>
+    <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
+    <li>⚡ Fun fact: Football, Badminton,...</li>
+    </ul>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- About Me Section -->
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h2>🔥 About Me</h2>
-      <ul>
-        <li>🌱 I’m currently becoming Fullstack Developer</li>
-        <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
-        <li>💬 Ask me about SOME stack and related technologies</li>
-        <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
-        <li>⚡ Fun fact: Football, Badminton,...</li>
-      </ul>
-    </td>
-    <!-- Image Section -->
-    <td style="width: 50%; text-align: center;">
-      <img src="https://img4.thuthuatphanmem.vn/uploads/2020/05/13/anh-goc-lam-viec-don-gian-ma-dep_063108687.jpg" style="width: 100%; max-width: 400px; border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+
 
 # 💻 Languages and Tools:
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/> <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
