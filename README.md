@@ -35,20 +35,27 @@
   
 # 📊 GitHub Stats:
 
-<table style="border-collapse: collapse; width: 100% border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&show_icons=true&theme=codeSTACKr&hide_border=true&rank_icon=github&include_all_commits=true">
-    </td>
-  </tr>
-</table>
+<div style="margin: 10px; align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanphangl1997&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Most Used Languages"
+    style="margin-top: 20px; margin-bottom: 20px;" 
+  >
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=toanphangl1997&show_icons=true&theme=codeSTACKr&hide_border=true&rank_icon=github&include_all_commits=true" 
+    alt="GitHub Stats"
+    style="margin-top: 20px; margin-bottom: 20px;" 
+  >
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toanphangl1997&theme=codeSTACKr&hide_border=true" alt="GitHub Streak Stats">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=toanphangl1997&theme=codeSTACKr&hide_border=true" 
+    alt="GitHub Streak Stats"
+    style="margin-top: 20px; margin-bottom: 20px;;" 
+  >
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=toanphangl1997&theme=radical&no-frame=true&no-bg=true&margin-w=4)
