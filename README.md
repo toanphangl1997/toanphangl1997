@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Phan Toàn</h1>
 <p align="center">
   <img align="center" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" />
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from 🇻🇳 </h3>
 </p>
 
 About Me
