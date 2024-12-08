@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" />
   <h3 align="center">Passionate Developer From VN </h3>
-  <img align="center" height="350" width="1000" src="https://img.lovepik.com/bg/20240418/Modern-Office-Vibe-Dark-Loft-Wall-with-Desktop-Computer-Mockup_6497563_wh860.jpg!/fw/860"/>
+  
 </p>
 
 <h2>🔥 About Me</h2>
@@ -60,6 +60,8 @@
 
 ### 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toanphangl1997&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+<img align="center" height="350" width="1000" src="https://img.lovepik.com/bg/20240418/Modern-Office-Vibe-Dark-Loft-Wall-with-Desktop-Computer-Mockup_6497563_wh860.jpg!/fw/860"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=toanphangl1997&icon=0&color=7)](https://visitcount.itsvg.in)
