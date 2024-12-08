@@ -8,19 +8,23 @@
   <img align="center" height="350" width="1000" src="https://img.lovepik.com/bg/20240418/Modern-Office-Vibe-Dark-Loft-Wall-with-Desktop-Computer-Mockup_6497563_wh860.jpg!/fw/860"/>
 </p>
 <h2>🔥 About Me</h2>
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <!-- Danh sách thông tin -->
-  <ul style="list-style: none; padding: 0; margin: 0; flex: 1;">
-    <li>🌱 I’m currently becoming Fullstack Developer</li>
-    <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
-    <li>💬 Ask me about SOME stack and related technologies</li>
-    <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
-    <li>⚡ Fun fact: Football, Badminton,...</li>
-  </ul>
 
-  <!-- Hình động -->
-  <img src="./animation.gif" alt="Animation" style="width: 150px; height: auto; margin-left: 20px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently becoming Fullstack Developer</li>
+        <li>🎓 I’m currently learning <a href="https://cybersoft.edu.vn">Cybersoft Academy</a></li>
+        <li>💬 Ask me about SOME stack and related technologies</li>
+        <li>📧 How to reach me: <a href="mailto:toanphang1997@gmail.com">toanphang1997@gmail.com</a></li>
+        <li>⚡ Fun fact: Football, Badminton,...</li>
+      </ul>
+    </td>
+    <td>
+      <img src="./animation.gif" alt="Animation" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Languages and Tools:
